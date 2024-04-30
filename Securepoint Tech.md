@@ -10,4 +10,4 @@
 
 Our seasoned management team brings deep experience in strategic ICT solution management and administration. We prioritize mutual advantages and value delivery, empowering our clients to enhance profitability, productivity, reliability, and overall success. At Securepoint, we believe that security isn't about achieving IT perfection; it's about ensuring lasting customer satisfaction and confidence¹.
 
-If you'd like to learn more, feel free to visit our **[official website](https://securepoint.co.ke/about-us/)**. 🌐
+If you'd like to learn more, feel free to visit our **[About Us](https://securepoint.co.ke/about-us/)**. 🌐
